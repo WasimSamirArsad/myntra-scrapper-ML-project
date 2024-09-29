@@ -6,6 +6,7 @@ env/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
