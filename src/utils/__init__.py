@@ -1,5 +1,5 @@
 from src.cloud_io import MongoIO
-from src.constant import MONGO_DATABASE_NAME
+from src.constants import MONGO_DATABASE_NAME
 from src.exception import CustomException
 import os
 import sys
